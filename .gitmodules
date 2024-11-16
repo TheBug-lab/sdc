@@ -1,0 +1,9 @@
+[submodule "mern"]
+	path = mern
+	url = https://github.com/TheBug-lab/mern
+[submodule "oops"]
+	path = oops
+	url = https://github.com/TheBug-lab/oops
+[submodule "dsa"]
+	path = dsa
+	url = https://github.com/TheBug-lab/dsa
